@@ -4,3 +4,7 @@ Five git commands learned so far:
 3. git add file_name : Adds the file which has to be commited further.
 4. git commit -m "display_message" : Commits the new added file in the repository.
 5. git push : All the local changes made in the repository are pushed to the git server.
+
+Summary of today's lecture in about 100 words :
+
+First, we learned the visual studio interface, the basics of Visual Studio. Then we learned about a web page having information and what kind of features it can have (Titles, section, subsections, lists, tables, etc.). We installed a markdown extension named “Markdown All in One” on VS Code. We further created a file with markdown extension (Readme.md) and displayed it’s preview on the right. We then learned a few basic syntaxes. A single # is used for mentioning the title, double # for section, triple # for subsection and so on. In the coming lecture we would continue with markdown language and learn different features of it.
