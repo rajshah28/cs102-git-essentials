@@ -1,0 +1,6 @@
+Five git commands learned so far:
+1. git clone : Clones the repository into a folder in our local machine.
+2. git status : Displays the status of the branch, whether we need to commit/ add a file.
+3. git add file_name : Adds the file which has to be commited further.
+4. git commit -m "display_message" : Commits the new added file in the repository.
+5. git push : All the local changes made in the repository are pushed to the git server.
